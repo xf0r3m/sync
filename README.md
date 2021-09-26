@@ -2,7 +2,7 @@
 Skrypt szybkiej synchronizacji katalogu zdalnego
 
 ## Instalacja
-1. git clone https://git.morketsmerke.net/xf0r3m/sync.git
+1. git clone https://github.com/xf0r3m/sync.git
 2. chmod +x sync/sync.sh
 
 ## Użytkowanie
